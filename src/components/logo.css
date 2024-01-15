@@ -1,0 +1,31 @@
+/* Logo.css */
+.logo {
+    font-family: 'Arial', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: transparent;
+    background: linear-gradient(98.37deg, #f89e00 0.99%, #da2f68 100%);
+    -webkit-background-clip: text;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .icon {
+    margin-right: 8px;
+    width: 30px; /* Adjust the width as needed */
+    height: 30px; /* Adjust the height as needed */
+    color: white;
+    border-radius: 50%;
+    background:linear-gradient(98.37deg, #f89e00 0.99%, #da2f68 100%);
+  }
+  
+  .stream,
+  .ify {
+    background: linear-gradient(98.37deg, #f89e00 0.99%, #da2f68 100%);
+    -webkit-background-clip: text;
+    margin: 0;
+  }
+  
