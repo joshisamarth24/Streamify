@@ -1,6 +1,6 @@
 // Logo.js
 import React from 'react';
-import './Logo.css';
+import './logo.css';
 import video from './video.png'
 
 const Logo = () => {
